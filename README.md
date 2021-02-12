@@ -9,6 +9,8 @@ You can download and this is the instructions
 3. yarn dev in console
 4. Ready!
 
+PreviewMode: https://front-end-e-c.vercel.app/
+
 Add Node Modules and Yarn Dev
 
 Test: https://elizabethandclarke.com/
